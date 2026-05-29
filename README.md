@@ -1,2 +1,3 @@
-# web-php-sirinya
-web php project
+# sirinya ratcharak
+* รหัส 69319010022
+* แผนกเทคโนโลยีสารสนเทศ
