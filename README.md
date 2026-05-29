@@ -1,2 +1,3 @@
-# web-php-sirinya
-web php project
+# sirinya ratcharak
+* รหัสนักศึกษา 69319010022
+* แผนกเทคโนโลยีสารสนเทศ
